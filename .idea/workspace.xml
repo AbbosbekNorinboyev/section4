@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5a95d048-fff1-45fa-8e4f-d450c65978ad" name="Changes" comment="fix yaml" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AbbosbekNorinboyev&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/AbbosbekNorinboyev/section4.git&quot;,
+    &quot;accountId&quot;: &quot;83753484-f739-4528-898c-7e6f25e87be6&quot;
+  }
+}</component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3E1XAJXfr2D9oSY0lbextAgxZ6l" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Spring Boot.AccountsApplication.executor": "Debug",
+    "Spring Boot.CardsApplication.executor": "Debug",
+    "Spring Boot.LoansApplication.executor": "Debug",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master",
+    "ignore_missing_gitignore": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Abbos/Udemy/Section4",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.configurations.included.in.services": "true",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.LRUPopupBuilder$1/SQL Dialect": [
+      "H2"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.eazybytes.accounts.service.impl" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.eazybytes.accounts.dto" />
+      <recent name="com.eazybytes.accounts.repository" />
+      <recent name="com.eazybytes.accounts.entity" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="KtorApplicationConfigurationType" />
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.CardsApplication">
+    <configuration name="AccountsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="accounts" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eazybytes.accounts.AccountsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CardsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="ms-21" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eazybytes.cards.CardsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoansApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="loans" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eazybytes.loans.LoansApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a95d048-fff1-45fa-8e4f-d450c65978ad" name="Changes" comment="" />
+      <created>1779346905241</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1779346905241</updated>
+      <workItem from="1779346906398" duration="1748000" />
+      <workItem from="1779352691104" duration="664000" />
+      <workItem from="1779380668137" duration="225000" />
+      <workItem from="1779425157331" duration="126000" />
+      <workItem from="1779426709133" duration="4411000" />
+      <workItem from="1779440952087" duration="6490000" />
+      <workItem from="1779450692845" duration="10000" />
+      <workItem from="1779512476280" duration="10775000" />
+      <workItem from="1779551967824" duration="285000" />
+      <workItem from="1779552492175" duration="1064000" />
+      <workItem from="1779553766111" duration="537000" />
+      <workItem from="1779600919515" duration="8769000" />
+      <workItem from="1782147251599" duration="707000" />
+      <workItem from="1782277700761" duration="286000" />
+      <workItem from="1782626929746" duration="2845000" />
+      <workItem from="1783094007488" duration="209000" />
+      <workItem from="1783247436469" duration="169000" />
+      <workItem from="1783248472227" duration="373000" />
+      <workItem from="1783249109128" duration="141000" />
+      <workItem from="1783249268319" duration="305000" />
+    </task>
+    <task id="LOCAL-00001" summary="add entity">
+      <option name="closed" value="true" />
+      <created>1779429817382</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1779429817382</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add dto">
+      <option name="closed" value="true" />
+      <created>1779431133606</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1779431133606</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fix">
+      <option name="closed" value="true" />
+      <created>1779445317934</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1779445317934</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fix">
+      <option name="closed" value="true" />
+      <created>1779447203988</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1779447203988</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add update method">
+      <option name="closed" value="true" />
+      <created>1779513900769</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1779513900770</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add delete method">
+      <option name="closed" value="true" />
+      <created>1779515013563</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1779515013563</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add global exception handle">
+      <option name="closed" value="true" />
+      <created>1779515374406</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1779515374406</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add validation">
+      <option name="closed" value="true" />
+      <created>1779518758548</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1779518758548</updated>
+    </task>
+    <task id="LOCAL-00009" summary="update audit column">
+      <option name="closed" value="true" />
+      <created>1779519978609</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1779519978609</updated>
+    </task>
+    <task id="LOCAL-00010" summary="add swagger">
+      <option name="closed" value="true" />
+      <created>1779525788311</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1779525788311</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add loans">
+      <option name="closed" value="true" />
+      <created>1779553951954</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1779553951954</updated>
+    </task>
+    <task id="LOCAL-00012" summary="add cards">
+      <option name="closed" value="true" />
+      <created>1779554244995</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1779554244995</updated>
+    </task>
+    <task id="LOCAL-00013" summary="add loans">
+      <option name="closed" value="true" />
+      <created>1779601886377</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1779601886378</updated>
+    </task>
+    <task id="LOCAL-00014" summary="fix loans">
+      <option name="closed" value="true" />
+      <created>1779602306633</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1779602306633</updated>
+    </task>
+    <task id="LOCAL-00015" summary="add cards">
+      <option name="closed" value="true" />
+      <created>1779603035957</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1779603035957</updated>
+    </task>
+    <task id="LOCAL-00016" summary="fix yaml">
+      <option name="closed" value="true" />
+      <created>1779607254190</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1779607254190</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add entity" />
+    <MESSAGE value="add dto" />
+    <MESSAGE value="fix" />
+    <MESSAGE value="add update method" />
+    <MESSAGE value="add delete method" />
+    <MESSAGE value="add global exception handle" />
+    <MESSAGE value="add validation" />
+    <MESSAGE value="update audit column" />
+    <MESSAGE value="add swagger" />
+    <MESSAGE value="add loans" />
+    <MESSAGE value="fix loans" />
+    <MESSAGE value="add cards" />
+    <MESSAGE value="fix yaml" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix yaml" />
+  </component>
+</project>
